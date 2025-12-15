@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Blocker</string>
+    <string name="accessibility_service_description">This service monitors running apps and blocks access to selected apps like YouTube Shorts and Instagram Reels to help you stay focused and productive.</string>
+</resources>
